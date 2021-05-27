@@ -8,9 +8,9 @@ This repository contains project submissions for my Springboard Data Science Car
 3. Unit 8.3: SQL Country Cub Case Study 
 
 4. Guided Capstone Project:  
-  1. Guided Capstone Step 2: Data Wrangling 
-  2. Guided Capstone Step 3: Exploratory Data Analysis
-  3. Guided Capstone Step 4: Data Preprocessing 
-  4. Guided Capstone Step 5: Modeling 
-  5. Guided Capstone Step 6: Project Report     
-  6. Guided Capstone Step 7: Slide Deck Presentation 
+  A. Guided Capstone Step 2: Data Wrangling 
+  B. Guided Capstone Step 3: Exploratory Data Analysis
+  C. Guided Capstone Step 4: Data Preprocessing 
+  D. Guided Capstone Step 5: Modeling 
+  E. Guided Capstone Step 6: Project Report     
+  F. Guided Capstone Step 7: Slide Deck Presentation 
