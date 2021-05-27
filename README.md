@@ -1,9 +1,13 @@
 # Springboard
 This repository contains project submissions for my Springboard Data Science Career Track, including:
 
-1. London Housing Case Study 
+1. Unit 4.3: London Housing Case Study 
 
-2. Guided Capstone Project:  
+2. Unit 7.2: API Mini Project
+
+3. Unit 8.3: SQL Country Cub Case Study 
+
+4. Guided Capstone Project:  
   A. Guided Capstone Step 2: Data Wrangling 
   B. Guided Capstone Step 3: Exploratory Data Analysis
   C. Guided Capstone Step 4: Data Preprocessing 
